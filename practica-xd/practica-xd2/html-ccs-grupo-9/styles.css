@@ -1,0 +1,48 @@
+body{
+    background: skyblue;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 4px;
+    background-color: crimson;
+    margin: 20px;
+    
+    
+}
+h2{
+    font-size: 12px;
+    font-family: initial;
+}
+p{
+    font-size: 20px;
+    background-color: aquamarine;
+    
+}
+h3{
+    font-size: 12px;
+}
+ul{
+    color: red;
+    background-color:aquamarine;
+    margin-right: 950px;
+}
+.imagen{
+        width: 200px;
+        
+}
+span{
+    color: blue;
+    text-decoration: underline;
+    
+}
+nav{
+    margin: 100px;
+}
+h4{
+    margin-left: 650px;
+    color: red;
+}
